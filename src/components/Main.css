@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(183, 114, 204);
+    height: auto;
+    width: 550px;
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 20px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+}
+li{
+    width: 450px;
+    height: 30px;
+    background-color: plum;
+    list-style: none;
+    padding: 10px;
+
+}
