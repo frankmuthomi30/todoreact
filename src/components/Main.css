@@ -32,5 +32,6 @@ li{
     background-color: plum;
     list-style: none;
     padding: 10px;
+    gap: 5px;
 
 }
